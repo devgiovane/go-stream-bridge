@@ -1,6 +1,6 @@
 <img src="./go.png" width="80" height="80" alt="logo" />
 
-# GO Push RTSP to RTMP
+# GO Stream Bridge
 
 ### About
 
